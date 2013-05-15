@@ -1,0 +1,52 @@
+body .no-margin {
+  margin: 0 !important;
+}
+
+.no-bold {
+  font-weight: normal;
+}
+
+.btn-wide {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.btn-clear,
+.btn-clear:hover {
+  background: none;
+  border: none;
+  box-shadow: none;
+  cursor: default;
+}
+
+.clearboth {
+  clear: both;
+}
+
+.margin-small {
+  margin: 5px;
+}
+
+.margin-medium {
+  margin: 15px;
+}
+
+.padding-xlarge {
+  padding: 35px;
+}
+
+.padding-xxlarge {
+  padding: 50px;
+}
+
+input.placeholder {
+  color: #999;
+}
+
+.dropdown .dropdown-toggle.simple-caret {
+  padding: 10px 0px 10px;
+}
+
+.color-grey {
+  color: #aeaeae;
+}

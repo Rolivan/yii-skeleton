@@ -2,7 +2,7 @@
 
 class Controller extends CController {
 
-    public $layout = 'main';
+    public $layout = 'index';
 
     public function __construct($id, $module = null) {
         parent::__construct($id, $module);
